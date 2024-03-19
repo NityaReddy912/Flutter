@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "398847525147",
+    "project_id": "fir-notification-735ee",
+    "storage_bucket": "fir-notification-735ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398847525147:android:c56c871d6fc3819844d3be",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL-3zimYovuY7TAsgMXuep1X5r5pLI5U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398847525147:android:0007e229d2f0366644d3be",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_initial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL-3zimYovuY7TAsgMXuep1X5r5pLI5U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
